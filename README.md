@@ -10,6 +10,4 @@ Technology test: Looker Studio Embed
 
 #### Technologies :
 
-● Looker Studio,
-
-![github-large](https://i.ibb.co/nnzr04z/prionto-71-web-app.png)
+● Looker Studio, HTML
